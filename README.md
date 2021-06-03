@@ -2,10 +2,25 @@
 
 Decoder ring is a cipher project that allows for encoding and decoding of input messages.
 
+## Project setup
+
+Follow the instructions below to get this project up and running on your own machine:
+
+Run `npm i`
+
+To run the tests, you can run the following command: 
+
+`npm test`
+
+You can run the application using the following command:
+
+`npm start`
+
+To stop the servers from running, you can press `Ctrl + C`
+
 ## Project Description & usage
 
 The 3 ciphers available within the project are:
-
 
 ### Caesar Shift
 
