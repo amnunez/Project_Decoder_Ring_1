@@ -16,7 +16,9 @@ You can run the application using the following command:
 
 `npm start`
 
-To stop the servers from running, you can press `Ctrl + C`
+This command will start a server and take over your terminal window.
+
+To stop the server from running, you can press `Ctrl + C`
 
 ## Project Description & usage
 
